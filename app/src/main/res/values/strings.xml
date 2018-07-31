@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_logout">Logout</string>
+
+    <!-- hint -->
+    <string name="phoneNumber">กรอกเบอร์โทรศัพท์</string>
+    <string name="codeVerify">กรอกรหัสผ่าน</string>
+
+</resources>

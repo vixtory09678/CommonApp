@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_login_size">200dp</dimen>
+
+    <dimen name="paddingLv1">8dp</dimen>
+    <dimen name="paddingLv2">16dp</dimen>
+</resources>
