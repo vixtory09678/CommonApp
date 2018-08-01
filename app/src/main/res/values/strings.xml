@@ -8,4 +8,6 @@
     <string name="phoneNumber">กรอกเบอร์โทรศัพท์</string>
     <string name="codeVerify">กรอกรหัสผ่าน</string>
 
+    <string name="callPhone">Call Phone</string>
+
 </resources>
