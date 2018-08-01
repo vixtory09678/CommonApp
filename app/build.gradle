@@ -8,7 +8,7 @@ android {
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.wannachat.roboticsza.example"
-        minSdkVersion 16
+        minSdkVersion 19
         targetSdkVersion 27
         versionCode 1
         versionName "1.0"
@@ -38,6 +38,11 @@ dependencies {
 
     // permission
     implementation 'rebus:permission-utils:2.0.7'
+
+    // qrGen
+    implementation 'com.github.kenglxn.QRGen:android:2.5.0'
+    // qrScan
+    implementation 'com.budiyev.android:code-scanner:1.9.2'
 
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'com.android.support.test:runner:1.0.2'

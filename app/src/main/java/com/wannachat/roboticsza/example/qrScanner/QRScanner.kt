@@ -22,10 +22,7 @@ class QRScanner : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_qrscan)
 
-
-
         requestPermissionCamera()
-
     }
 
     private fun requestPermissionCamera(){
